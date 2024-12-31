@@ -12,3 +12,5 @@ guests/static/save-the-date/images/archive/
 .DS_Store
 .venv/
 /venv/
+wsgi.py
+passenger_wsgi.py
